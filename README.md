@@ -2,9 +2,9 @@
 
 listed by ticker
 
-# biotech.xlsx
+# biopharma.xlsx
 
-sector file for all biotech stocks comparing eachother
+sector file for all biotech & pharma stocks comparing eachother
 
 # productivity.xlsx
 
