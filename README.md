@@ -6,6 +6,10 @@ listed by ticker
 
 sector file for all biotech & pharma stocks comparing eachother
 
+# tech.xlsx
+
+sector file for all tech stocks comparing eachother
+
 # productivity.xlsx
 
 macro analysis on gdp and productivity
