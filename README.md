@@ -14,6 +14,6 @@ sector file for all tech stocks comparing eachother
 
 macro analysis on gdp and productivity
 
-# mockportfolio.xlsx
+# ratings.xlsx
 
-Mock portfolio with IRR (currently after 4 months) to test investment ideas
+Best investment ideas (long/short) as of a certain date and target price
